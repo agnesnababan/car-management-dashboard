@@ -1,0 +1,29 @@
+{
+  "name": "car-management-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agnesnababan/car-management-dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agnesnababan/car-management-dashboard/issues"
+  },
+  "homepage": "https://github.com/agnesnababan/car-management-dashboard#readme",
+  "dependencies": {
+    "bootstrap-icons": "^1.11.1",
+    "cloudinary": "^1.41.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.0.1"
+  }
+}

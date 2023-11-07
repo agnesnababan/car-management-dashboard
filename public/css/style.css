@@ -1,0 +1,17 @@
+body {
+    font-family: 'IBM Plex Sans' !important;
+    background-color: #F4F5F7 !important;
+    
+}
+
+nav{
+    background-color: white;
+}
+
+span{
+    color: rgb(228, 107, 107);
+}
+
+.main-content{
+    padding: 20px;
+}
