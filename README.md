@@ -1,4 +1,8 @@
 # car-management-dashboard
+Delivery challenge: 
+- API CRUD untuk car_product
+- Link database diagram car
+
 Link dbdiagram :
 https://dbdiagram.io/d/Car-Management-Dashboard-633f91a0f0018a1c5fb253b2
 
